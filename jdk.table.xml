@@ -1,0 +1,50 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="OpenJDK 8u202 - OpenJ9" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
+      <homePath value="$USER_HOME$/OpenJDK/jdk8u202-b08" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/dtfj.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/dtfjview.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/traceformat.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/OpenJDK/jdk8u202-b08/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

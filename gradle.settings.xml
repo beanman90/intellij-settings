@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Xmx512m -XX:MaxPermSize=300m" />
+  </component>
+</application>
