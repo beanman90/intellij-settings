@@ -3,8 +3,8 @@
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="defaultProjectDirectory" value="C:\Users\Manh Do\Documents\GitProjects" />
     <option name="inactiveTimeout" value="5" />
-    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">

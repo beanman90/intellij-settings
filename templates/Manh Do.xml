@@ -1,0 +1,7 @@
+<templateSet group="Manh Do">
+  <template name="svm" value="static void main(String[] args){&#10;    $END$&#10;}" description="main() method declaration" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

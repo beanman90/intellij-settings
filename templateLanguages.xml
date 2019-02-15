@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.html.peb" lang="Pebble" />
+  </component>
+</application>
