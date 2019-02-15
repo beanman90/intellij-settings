@@ -5,22 +5,70 @@
       <component name="GradleLocalSettings">
         <option name="projectSyncType">
           <map>
-            <entry key="H:/GitProjects/Backend/MarketingGP" value="PREVIEW" />
-            <entry key="H:/GitProjects/Backend/Supports/slack-api" value="PREVIEW" />
-            <entry key="H:/GitProjects/Backend/Tools/gp-console-client-tool" value="PREVIEW" />
-            <entry key="H:/GitProjects/Backend/ip-tracking-service" value="PREVIEW" />
-            <entry key="H:/GitProjects/Backend/keyword-analyzer" value="PREVIEW" />
-            <entry key="H:/Test/android-play-publisher-api-master/v3" value="PREVIEW" />
+            <entry key="C:/GitProjects/Backend/MarketingGPService" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitProjects/Backend/marketing-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitProjects/Backend/playx" value="PREVIEW" />
           </map>
         </option>
       </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>PerformanceLintAndroid</id>
+              </State>
+              <State>
+                <id>VisibilityJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="H:/GitProjects/Backend" />
+        <property name="last_opened_file_path" value="C:/GitProjects/Backend" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+        <property name="settings.editor.selected.configurable" value="com.zen.idea.plugin.adt.ui.SettingsPage" />
       </component>
       <component name="RunManager">
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+        </configuration>
         <configuration default="true" type="Applet">
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
           <method v="2">
@@ -29,21 +77,24 @@
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <method v="2">
             <option name="Make" enabled="true" />
           </method>
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="TEST_OBJECT" value="class" />
           <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <method v="2">
             <option name="Make" enabled="true" />
           </method>
         </configuration>
-        <configuration default="true" type="TestNG">
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-          <properties />
-          <listeners />
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file enabled="true" id="idea.log" />
           <method v="2">
             <option name="Make" enabled="true" />
           </method>
@@ -51,18 +102,6 @@
       </component>
       <component name="masterDetails">
         <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8u144</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>

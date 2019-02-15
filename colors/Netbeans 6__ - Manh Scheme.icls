@@ -1,5 +1,13 @@
-<scheme name="Netbeans 6++" version="142" parent_scheme="Default">
+<scheme name="Netbeans 6++ - Manh Scheme" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-02-02T11:59:16</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-02-02T18:02:01</property>
+    <property name="originalScheme">Netbeans 6++</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -43,7 +51,7 @@
     </option>
     <option name="Block comment">
       <value>
-        <option name="FOREGROUND" value="b7b7b7" />
+        <option name="FOREGROUND" value="7b7b7b" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
@@ -369,6 +377,20 @@
         <option name="BACKGROUND" value="cccccc" />
       </value>
     </option>
+    <option name="Groovydoc comment">
+      <value>
+        <option name="FOREGROUND" value="797979" />
+      </value>
+    </option>
+    <option name="Groovydoc tag">
+      <value>
+        <option name="FOREGROUND" value="6e6e6e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="eceba3" />
@@ -395,6 +417,11 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
+    <option name="Instance property reference ID">
+      <value>
+        <option name="FOREGROUND" value="9824" />
+      </value>
+    </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="575757" />
@@ -411,6 +438,9 @@
       <value>
         <option name="FOREGROUND" value="575757" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
@@ -433,6 +463,17 @@
         <option name="FOREGROUND" value="1a49" />
       </value>
     </option>
+    <option name="Line comment">
+      <value>
+        <option name="FOREGROUND" value="797979" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -441,6 +482,11 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
@@ -471,6 +517,18 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="Static field">
+      <value>
+        <option name="FOREGROUND" value="9824" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Static property reference ID">
+      <value>
+        <option name="FOREGROUND" value="7b0a4b" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -485,6 +543,13 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="e3002a" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
