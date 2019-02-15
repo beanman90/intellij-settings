@@ -1,0 +1,89 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="227-0-42-255,,,23-23-23-255,,,110-110-110-255,,,163-163-163-255,,,147-147-147-255,,,121-121-121-255,,,123-123-123-255,,,131-255-74-255,,,0-152-36-255,,,123-10-75-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61055636" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Gradle Build Script with wrapper" />
+    <property name="GCT_CLOUD_SDK_LAST_AUTOMATIC_UPDATE_TMESTAMP" value="1549867561010" />
+    <property name="GOOGLE_CLOUD_TOOLS_USAGE_TRACKER_OPT_IN" value="true" />
+    <property name="GradleModuleWizard.inheritGroupId" value="false" />
+    <property name="GradleModuleWizard.inheritVersion" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spell" />
+    <property name="InstalledPluginsSearchHistory" value="codota&#10;he&#10;Quick note&#10;Groovy" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesGroovy" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="Plug&#10;resin&#10;glass" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.31760645" />
+    <property name="SettingsSearchHistory" value="Codota&#10;JDK&#10;res&#10;fly&#10;gradle" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="TrendingPluginsSearchHistory" value="codota&#10;rainbow&#10;template&#10;Pebble&#10;json" />
+    <property name="android-component-compatibility-check" value="1530031658233" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="codota_token" value="DGFQN8aFhdCTZh5M3HIZI0tmnZzVo4YSAS3y7FL3d9Fu3Fm3NyIzyHJdbA9kZf0grfloRNjhmfVzjKXLX/ZsX7pLEk06aWwk" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="322" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="73" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/GitProjects/Backend/marketing-service&#10;C:/Users/Manh Do/Documents/GitProjects/GitHub&#10;C:/Users/Manh Do/.ideaquicknotes&#10;C:/Users/Manh Do/Documents/GitProjects/Backend/playx&#10;C:/Users/Manh Do/OpenJDK/jdk8u202-b08&#10;C:/Program Files/Java/jdk1.8.0_201&#10;C:/Users/Manh Do/gradle/gradle-5.2.1&#10;C:/Users/Manh Do/gradle/gradle-5.2.1/bin&#10;C:/OpenJDK/jdk-11.0.2+9_openj9-0.12.1&#10;C:/OpenJDK/jdk-9.0.4+12&#10;C:/Program Files/Java/jdk-11.0.2&#10;C:/Users/Manh Do/Documents/GitProjects/Backend/vertx-web-demo/src/main/resources/index.peb&#10;C:/Users/Manh Do/Documents/GitProjects/Backend/vertx-web-demo/src/main/resources&#10;C:/Users/Manh Do/Documents/GitProjects/Backend/vertx-web-demo&#10;C:/Users/Manh Do/Downloads/pebble-intellij.zip&#10;C:/Program Files/Java/jdk1.8.0_144/bin&#10;C:/Program Files/Java/jdk1.8.0_144&#10;C:/Users/Manh Do/Documents/GitProjects&#10;C:/GitProjects/Backend/slack-notifier&#10;C:/GitProjects/Backend&#10;C:/GitProjects/Backend/MarketingGPService&#10;C:/Users/Manh Do/Documents/Projects/untitled/untitled.jar&#10;C:/Users/Manh Do/Documents/Projects&#10;C:/Users/Manh Do/Documents/Projects/Appalytic/Appalytic - Google Play Service API&#10;C:/Users/Manh Do/glassfish4&#10;C:/Program Files/glassfish-4.1.1&#10;C:/Users/Manh Do/Documents/Projects/Appalytic/Gradle/RemoteConfigurationService&#10;C:/Users/Manh Do/Downloads/MD_IntelliJ_2017_settings.jar&#10;C:/Program Files/Java/jdk1.8.0_131" />
+    <property name="file.gist.reindex.count" value="1511" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0u201" />
+    <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-172.4155.36" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/gradle/gradle-5.2.1" />
+    <property name="lastTip" value="7" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+    <property name="selected.color.option.type" value="Static property reference ID" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>
