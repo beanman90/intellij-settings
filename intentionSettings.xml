@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Groovy/Expression conversions/Remove unnecessary parentheses from method call" />
-  </component>
-</application>
