@@ -4,6 +4,5 @@
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="smoothScrolling" value="true" />
-    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
 </application>
